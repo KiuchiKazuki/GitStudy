@@ -14,6 +14,8 @@
 
 ## git fetch
 
+## git pull
+
 ## git checkout
 
 ## git push
